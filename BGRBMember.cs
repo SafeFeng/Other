@@ -8,7 +8,7 @@ using System.Data;
 using GriffinReed.Models;
 using GriffinReed.BusinessLayer;
 using Common.DB;
-
+//Add
 namespace Business.Member {
 	public sealed class BGRBMember : IBMember, IExistBusinessModel, IAddBusinessModel, IUpdateBusinessModel, IDeleteBusinessModel {
 
